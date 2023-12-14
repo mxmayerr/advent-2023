@@ -8,9 +8,4 @@ Advent of Code is an annual set of programming puzzles that can be solved in any
 
 ## Structure of the Repository
 
-Each day's challenge is placed in a separate directory named `DayXX`, where `XX` is the day of the challenge. Each directory contains:
-
-- The puzzle description in a `README.md` file.
-- Input data for the challenge in an `input.txt` file.
-- Solution scripts for each part of the day's challenge.
-- Any additional notes or documentation in a `NOTES.md` file.
+Each day's challenge is placed in a separate file named `dayXX`, where `XX` is the day of the challenge. It is important to note that some files are setup for their part 2 solutions, so just check the comments as you're reading.
